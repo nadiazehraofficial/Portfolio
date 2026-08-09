@@ -20,4 +20,15 @@ Welcome to my portfolio!
 
  **Thank you for visiting my portfolio!**
 
+ ### Contact Me
+
+ 📧 Email: [nadiazehraofficial@gmail.com](mailto:nadiazehraofficial@gmail.com)
+  
+ 💼 LinkedIn: [Nadia Zehra](https://www.linkedin.com/in/nadia-zehra-15474a424/)
+
+ 📞  WhatsApp: Available on request
+
+ 
+ 
+
  
