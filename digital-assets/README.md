@@ -13,7 +13,6 @@ Contact
 - WhatsApp Business: Available on request
 
 Skills
-
 - Shopify Store Development
 - Product Uploads
 - Shopify Theme Customization
@@ -23,8 +22,7 @@ Skills
 - Canva
 
 About Me
-
 I am a Shopify Store Development and Meta Ads Intern, certified by NDA Digital Skills, building practical skills and helping businesses establish and grow their online presence. 
-Shared post
+
 
 
