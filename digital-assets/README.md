@@ -6,9 +6,9 @@ Certificate
 - NDA Digital Skills Certificate
 
 Professional Profiles
-- LinkedIn: Add your LinkedIn profile link
-- Facebook Profile: Add your Facebook profile link
-- Facebook Page: Add your Facebook Page link
+- LinkedIn:[Nadia Zehra](https://www.linkedin.com/in/nadia-zehra-15474a424/)
+- Facebook Profile: [Nadia Zehra](https://www.facebook.com/profile.php?id=61592185958598)
+- Facebook Page: [Nadia Zehra](https://www.facebook.com/profile.php?id=61592262192096)
 Contact
 - WhatsApp Business: Available on request
 
