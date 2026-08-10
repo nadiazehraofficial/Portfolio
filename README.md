@@ -1,6 +1,8 @@
 #  Nadia Zehra
 
-##  Shopify Store Development & Meta Ads Intern
+### Professional Portfolio
+
+**Shopify Store Development & Meta Ads Intern**
 
 Welcome to my portfolio!
 
