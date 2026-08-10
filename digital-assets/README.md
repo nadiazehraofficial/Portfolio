@@ -1,15 +1,15 @@
-#Digital Assets
+Digital Assets
 
 This folder contains my professional digital assets and online profiles related to my Shopify Store Development and Meta Ads services.
-##Certificate
+Certificate
 - NDA Digital Skills Certificate
-##Professional Profiles
+Professional Profiles
 - LinkedIn: Add your LinkedIn profile link
 - Facebook Profile: Add your Facebook profile link
 - Facebook Page: Add your Facebook Page link
-##Contact
+Contact
 - WhatsApp Business: Available on request
-###Skills
+Skills
 - Shopify Store Development
 - Product Uploads
 - Shopify Theme Customization
@@ -17,7 +17,7 @@ This folder contains my professional digital assets and online profiles related 
 - Landing Pages
 - Basic SEO
 - Canva
-###About Me
+About Me
 I am a Shopify Store Development and Meta Ads Intern, certified by NDA Digital Skills, building practical skills and helping businesses establish and grow their online presence. 
 Shared post
 
