@@ -20,15 +20,21 @@
 
 - Social media marketing basics
 - Online business promotion
-- Basic digital marketing strategy
+- Basic digital marketing strategies
   
 ## Professional Skills
 
+-Shopify Store Development
+-Meta Ads
+- GitHub & Git — Basic repository and portfolio management
+- Markdown — Creating and formatting digital documentation
+- Canva— Creating & Formatting Visual Content
+- CapCut— Video Editing & Short-Form Content
 - Communication
 - Customer support
 - Willingness to learn
 - Problem solving
-- Time management
+- Social Media management
   
 ## Current Learning
 I am continuously improving my Shopify Store Development and Meta Ads skills through practical training and hands-on learning. 
