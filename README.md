@@ -42,7 +42,7 @@ Welcome to my portfolio!
  - [Digital Assets](digital-assets/README.md)
  - [Professional Goals](goals.md)
  - [Skills](skills.md)
- - [Contact Me](#contact-me)
+ - [Contact Me](contact.md)
 
  ### 🎯 Current Focus
 
