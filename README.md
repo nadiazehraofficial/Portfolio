@@ -24,16 +24,16 @@ Welcome to my portfolio!
  - Audience Targeting
  - Digital Marketing Support
 
-   ### 🛠️ Skills
+### 🛠️ Skills
 
-   -Shopify Store Development
-   -Meta Ads
-   -Digital Marketing
-   -Social Media Marketing
-   -Communication
-   -Customer Support
+ - Shopify Store Development
+ - Meta Ads
+ - Digital Marketing
+ - Social Media Marketing
+ - Communication
+ - Customer Support
 
-   ## 📂 Portfolio
+ ## 📂 Portfolio
 
    Explore my portfolio:
 
@@ -59,7 +59,7 @@ Welcome to my portfolio!
   
  💼 LinkedIn: [Nadia Zehra](https://www.linkedin.com/in/nadia-zehra-15474a424/)
 
- 📞  WhatsApp: Available on request
+ 📞  WhatsApp Business: [WhatsApp](https://wa.me/923712069853)
  
    ---
  **Thank you for visiting my portfolio!**
