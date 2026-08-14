@@ -8,7 +8,7 @@
 - Help businesses establish and grow their online presence.
 - Gain experience by working on real-world projects.
 - Continue learning new digital tools and technologies.
-- 
+  
 ## My Vision
 
 My goal is to become a skilled Shopify Store Development and Meta Ads professional and provide reliable digital services to businesses. 
